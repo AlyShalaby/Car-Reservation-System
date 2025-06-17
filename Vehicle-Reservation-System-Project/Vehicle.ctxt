@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Vehicle
+comment1.params=scanner
+comment1.target=void\ readData(java.util.Scanner)
+comment1.text=\r\n\ Method\ to\ read\ data\ from\ a\ Scanner\ object\r\n
+comment2.params=
+comment2.target=void\ printDetails()
+comment3.params=
+comment3.target=java.lang.String\ getVehID()
+numComments=4
